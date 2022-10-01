@@ -85,6 +85,7 @@ Por lo tanto, se agregó una pequeña cantidad de _hardware_ para ayudar al proc
  [WiFiManager with ESP32 - Stop Hard-coding WiFi Credentials!](https://www.youtube.com/watch?v=VnfX9YJbaU8)
 
 
-    *MUY IMPORTANTE:* recordar que el ESP32 es un microcomputador de reducidas proporciones y costo, con lo cual no soporta conexiones de WiFi de 5.8 GHZ y solamente de 2.4 GHZ.  
-    Téngalo muy especialmente en cuenta, porque es uno de los errores más comunes por los cuales no se puede conectar al punto de acceso  
+    *MUY IMPORTANTE:* recordar que el ESP32 es un microcomputador de reducidas proporciones y costo.  
+    Por estas razones, no soporta conexiones de WiFi de 5.8 GHZ y solamente de 2.4 GHZ.  
+    Este es uno de los errores máß comunes por los cuales no se puede conectar al punto de acceso.  
 
